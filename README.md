@@ -46,13 +46,17 @@ Your app will now run at http://localhost:3000
 
 ### **🔐 Abuse Prevention Mechanisms** 
 IP Tracking: Prevents multiple claims from the same IP within a set time frame.
+
 Cookie Tracking: Ensures users don’t claim multiple coupons by refreshing the page.
+
 Time Restriction: Users can claim another coupon only after a cooldown period.
 
 ### **🎯 Future Improvements** 
 
 ✅ Admin panel for managing coupons
+
 ✅ Email-based coupon distribution
+
 ✅ Database storage for better scalability
 
 
