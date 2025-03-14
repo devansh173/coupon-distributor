@@ -15,7 +15,14 @@ A simple web application that distributes coupons to guest users in a round-robi
 
 ## 📂 Project Structure  
 ```bash
-coupon-distributor/ │── public/ │ └── index.html # Frontend HTML file │── server.js # Main backend server (Express.js) │── package.json # Project metadata and dependencies │── package-lock.json # Lockfile for dependencies │── .gitignore # Ignore unnecessary files │── README.md # Project documentation
+coupon-distributor/
+ │── public/ │
+└── index.html # Frontend HTML file
+ │── server.js # Main backend server (Express.js)
+│── package.json # Project metadata and dependencies
+ │── package-lock.json # Lockfile for dependencies
+│── .gitignore # Ignore unnecessary files
+│── README.md # Project documentation
 ```
 
 
